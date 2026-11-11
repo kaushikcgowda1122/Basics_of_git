@@ -1,2 +1,2 @@
 print("Day : 03")
-print("remote repository :")
+print("remote repository name is basics of git:")
